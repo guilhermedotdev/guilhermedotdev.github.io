@@ -3888,7 +3888,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 const environment = {
   production: false,
-  apiUrl: 'http://ec2-54-167-125-200.compute-1.amazonaws.com'
+  apiUrl: 'https://api-premiacoes.pmidf.org'
 };
 
 /***/ }),
