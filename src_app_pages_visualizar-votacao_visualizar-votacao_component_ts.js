@@ -652,7 +652,7 @@ function VisualizarVotacaoComponent_section_0_Template(rf, ctx) {
   if (rf & 2) {
     const ctx_r1 = _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](4);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtextInterpolate1"](" PMI Premia \u2022 ", ctx_r1.publicoAlvo === "AVALIADOR" ? "Avalia\u00E7\u00E3o do avaliador" : "Avalia\u00E7\u00E3o do p\u00FAblico", " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtextInterpolate1"](" PMI-DF Premia \u2022 ", ctx_r1.publicoAlvo === "AVALIADOR" ? "Avalia\u00E7\u00E3o do avaliador" : "Avalia\u00E7\u00E3o do p\u00FAblico", " ");
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](5);
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("ngIf", ctx_r1.erroAcesso);
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"]();
@@ -703,7 +703,7 @@ function VisualizarVotacaoComponent_section_1_div_13_article_1_img_2_Template(rf
 function VisualizarVotacaoComponent_section_1_div_13_article_1_div_3_Template(rf, ctx) {
   if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](0, "div", 37);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](1, "PMI Premia");
+    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](1, "PMI-DF Premia");
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
   }
 }
@@ -785,7 +785,7 @@ function VisualizarVotacaoComponent_section_1_Template(rf, ctx) {
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](0, "section", 15)(1, "div", 16)(2, "div", 17);
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](3, "img", 18);
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](4, "span", 7);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](5, "PMI Premia \u2022 Vota\u00E7\u00F5es vigentes");
+    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](5, "PMI-DF Premia \u2022 Vota\u00E7\u00F5es vigentes");
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](6, "h1");
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](7, "Selecione uma vota\u00E7\u00E3o");
@@ -911,7 +911,7 @@ function VisualizarVotacaoComponent_section_3_Template(rf, ctx) {
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](3, "\u2713");
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](4, "span", 7);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](5, "PMI Premia");
+    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](5, "PMI-DF Premia");
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](6, "h1");
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](7, "Seu voto foi registrado!");

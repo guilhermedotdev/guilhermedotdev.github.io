@@ -112,7 +112,7 @@ class LoginPageComponent {
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](7, " Acesso administrativo ");
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](8, "p", 5);
-          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](9, " Fa\u00E7a login para acessar o painel do sistema PMI Premia. ");
+          _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](9, " Fa\u00E7a login para acessar o painel do sistema PMI-DF Premia. ");
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](10, LoginPageComponent_div_10_Template, 2, 1, "div", 6);
           _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](11, "form", 7);

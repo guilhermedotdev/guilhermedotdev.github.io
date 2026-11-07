@@ -399,7 +399,7 @@ class LayoutComponent {
       template: function LayoutComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0)(1, "div", 1)(2, "div")(3, "div", 2);
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "PMI Premia");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "PMI-DF Premia");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "div", 3);
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "Frontend Angular para as APIs do projeto");
@@ -2040,7 +2040,7 @@ class HomeComponent {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Sistema completo");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "h1");
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "PMI Premia Frontend");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "PMI-DF Premia Frontend");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "p");
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, " Interface Angular para cadastrar categorias, anos, termos, candidatos, vota\u00E7\u00F5es, associa\u00E7\u00F5es de candidatos e envio de votos para a API. ");
